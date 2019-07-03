@@ -11,7 +11,7 @@ Choose one of these methods:
 
 1. Direct script download (the simplest and shortest method):
 
-<code> wget https://www.zhaklilo.info/scripts/imagemagick.sh && chmod 755 imagemagick.sh && ./imagemagick.sh </code>
+<code> wget https://www.zhaklilo.info/scripts/xdebug.sh && chmod 755 xdebug.sh && ./xdebug.sh </code>
 
 2. You can download the entire repository by using <code>git clone</code> or <code>git clone --depth 1 -b master</code> followed by the cloning URL above.
 
