@@ -15,7 +15,7 @@
 # * Date: 07/02/2019
 # * Version: 1.0 - initial release
 # * Purpose: This script is to ease and automate the
-# ** installation of Xdebug for PHP 5.6, 7.0, 7.1, 7.2, 7.3
+# ** installation of Xdebug for PHP 7.0, 7.1, 7.2, 7.3
 ##############################
 
 for phpver in 70 71 72 73; do
